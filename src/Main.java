@@ -139,6 +139,7 @@ public class Main {
         computer.join();
 
         System.out.println("Hello world");
+        System.out.println("Hello world22222");
 
         System.out.println("Queue Max 1 Size Reached: " + computer.getQueue1MaxSizeReached());
         System.out.println("Queue Max 2 Size Reached: " + computer.getQueue2MaxSizeReached());
